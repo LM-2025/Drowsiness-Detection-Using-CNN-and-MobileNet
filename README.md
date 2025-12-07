@@ -1,6 +1,6 @@
 # MRL Eye Dataset -- Drowsiness Detection (PyTorch)
 
-A lightweight **CNN classifier** for **open vs. closed eyes** using the
+ **CNN classifier** for **open vs. closed eyes** using the
 **MRL Eye Dataset**.\
 Includes preprocessing, subject-wise split, training, evaluation,
 augmentation, and confusion matrix.
