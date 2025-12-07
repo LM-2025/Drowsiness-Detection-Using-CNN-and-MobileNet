@@ -8,7 +8,7 @@ augmentation, and confusion matrix.
 ##  Dataset Download
 
 Download from Kaggle:\
-https://www.kaggle.com/datasets/muhammadkhalid/mrl-remote-ir-eye-dataset
+https://www.kaggle.com/datasets/imadeddinedjerarda/mrl-eye-dataset
 
 Place extracted files into:
 
@@ -36,14 +36,6 @@ Place extracted files into:
 -   Batch Size: 64
 -   Epochs: 10
 -   Augmentation: flip, rotation, normalization
-
-Run:
-
-    python train.py
-
-Outputs saved to:
-
-    results/
 
 
 ##  Outputs
